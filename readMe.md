@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="max-width: 100%;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;">
 
 </p>
  
