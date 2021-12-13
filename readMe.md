@@ -17,9 +17,11 @@ repo to see what I've been doing lately.</p>
 
 <hr>
 
-<h3 align="left">Technologies that I work on</h3>
+<h3 align="left">Technologies that I work on:</h3>
 
 <p>
+    
+<img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="max-width: 100%;">
 
