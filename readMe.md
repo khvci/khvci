@@ -5,7 +5,7 @@
 
 <p>Please check my 
 <a href="https://github.com/khvci/daily_practice" target="_blank">Daily Practice</a>
-repo to see what I've been doing lately.</p>
+ or <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev</a> repos to see what I've been doing lately.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
