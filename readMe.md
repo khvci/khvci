@@ -3,10 +3,8 @@
 <h1><strong>R. Cem Kahveci</strong></h1>
 <p>Working on my <strong>software development</strong> and <strong>data analytics</strong> skills.</p>
 
-<p>Please check my 
-<a href="https://github.com/khvci/daily_practice" target="_blank">Daily Practice</a>
- or <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev</a> repos to see what I've been doing lately.</p>
-
+<p>Please check my <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev (mostly Java)</a>
+ or <a href="https://github.com/khvci/daily_practice" target="_blank">Daily Practice (mostly Swift)</a> repos to see what I've been doing lately.</p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kahveci" target="_blank">
