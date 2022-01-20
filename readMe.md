@@ -4,7 +4,9 @@
 <p>Working on my <strong>software development</strong> and <strong>data analytics</strong> skills.</p>
 
 <p>Please check my <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev (mostly Java)</a>
- or <a href="https://github.com/khvci/daily_practice" target="_blank">Daily Practice (mostly Swift)</a> repos to see what I've been doing lately.</p>
+ or <a href="https://github.com/khvci/daily_practice" target="_blank">Daily Practice (mostly Swift)</a> repos to see what I've been doing lately.
+
+Click to see my <a href="https://github.com/khvci/javaNotes" target="_blank">Java</a> or <a href="https://github.com/khvci/daily_practice/blob/main/codecademyModules.swift" target="_blank">Swift</a> notes.</p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kahveci" target="_blank">
