@@ -20,7 +20,7 @@ Here you can see my <a href="https://github.com/khvci/Message-Encryptor" target=
 
 <hr>
 
-<h3 align="left">Technologies that I work on:</h3>
+<h3 align="left">Stack</h3>
 
 <p>
     
