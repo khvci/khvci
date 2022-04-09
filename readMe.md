@@ -6,9 +6,7 @@
 <p>Check my
  <a href="https://github.com/khvci/algorithm_practice" target="_blank">Algorithm Practice (mostly Swift)</a> or <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev (mostly Java)</a> repos to see what I've been doing lately.
 
-Click to see my <a href="https://github.com/khvci/javaNotes" target="_blank">Java</a> or <a href="https://github.com/khvci/daily_practice/blob/main/codecademyModules.swift" target="_blank">Swift</a> notes.
-
-Here you can see my <a href="https://github.com/khvci/Message-Encryptor" target="_blank">Message Encryptor/Decryptor</a> project.</p>
+Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java/Spring) project.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
