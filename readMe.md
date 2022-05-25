@@ -3,12 +3,15 @@
 <h1><strong>R. Cem Kahveci</strong></h1>
 <p>Working on my <strong>software development</strong> and <strong>data analytics</strong> skills.</p>
 
-<p>Check my
- <a href="https://github.com/khvci/algorithm_practice" target="_blank">Algorithm Practice (mostly Swift)</a> or <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev (mostly Java)</a> repos to see what I've been doing lately.
 
-Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java/Spring) project.</p>
+<h3>Current Java & Spring project: Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java/Spring) project.</p></h3>
 
-<h3 align="left">Connect with me</h3>
+
+<p>You can also check my
+ <a href="https://github.com/khvci/algorithm_practice" target="_blank">Algorithm Practice (mostly Swift)</a> or <a href="https://github.com/khvci/patika.dev" target="_blank">Patika.dev (mostly Java)</a> repos to see what I've been doing for algorithm practice.
+
+
+<h3 align="left">Connect with me on LinkedIn</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kahveci" target="_blank">
         <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
