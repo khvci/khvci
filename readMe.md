@@ -4,7 +4,7 @@
 <p>Working on my <strong>software development</strong> and <strong>data analytics</strong> skills.</p>
 
 
-<h3>Current project: Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java/Spring) project.</p></h3>
+<h3>Current project: Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java & Spring Boot) project.</p></h3>
 
 
 <p>You can also check my
