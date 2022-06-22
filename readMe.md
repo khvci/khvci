@@ -1,8 +1,10 @@
 
     
 <h1><strong>R. Cem Kahveci</strong></h1>
-<p>Working on my <strong>software development</strong> and <strong>data analytics</strong> skills.</p>
+<p>Working on my <strong>back-end web development</strong> and <strong>data analytics</strong> skills.</p>
 
+
+<h3>Currently started working on an <a href="https://github.com/khvci/Anti-Fraud-System" target="_blank">Anti Fraud System</a> (Java & Spring Boot) project.</p></h3>
 
 <h3>Last completed project: Here you can see my <a href="https://github.com/khvci/cinemaRoomRestService" target="_blank">Cinema Room REST Service</a> (Java & Spring Boot) project.</p></h3>
 
